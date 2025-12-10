@@ -31,7 +31,7 @@ pip install streamlit
 pip install matplotlib
 ```
 
-2. Por fim, execute o código abaixo para inicar o aplicativo localmente utilizando um webserver.
+2. Por fim, execute o código abaixo para iniciar o aplicativo localmente utilizando um webserver.
 
 ```
 streamlit run main.py
