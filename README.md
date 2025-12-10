@@ -1,9 +1,9 @@
 <h1>Calculadora de Investimento Anual 📊</h1>
 
 ## Sumário 🔎
-* [Sobre o projeto](#sobre-o-projeto)
-* [Bibliotecas](#bibliotecas)
-* [Como Usar](#como-usar)
+* [Sobre o projeto](#sobre-o-projeto-ℹ)
+* [Bibliotecas](#bibliotecas-📚)
+* [Como Usar](#como-usar-⚙)
 
 ## Sobre o projeto ℹ️
 Uma simples calculadora de investimento desenvolvida em Python usando a biblioteca Streamlit.
